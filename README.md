@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Victor, I'm a brazillian guy who loves technology and innovation
+I'm becoming a Web Developer and at this moment I was enhancing my knowledge about React
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Alves1&layout=compact&theme=chartreuse-dark&textcolor=white)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Alves1&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Victor-Alves1/Victor-Alves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
