@@ -6,6 +6,8 @@ I'm becoming a Web Developer and at this moment I was enhancing my knowledge abo
 ![icons8-css3-48](https://user-images.githubusercontent.com/101835324/165111999-a12764fb-a618-4c85-9fc1-8a9fd68e4db0.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/101835324/165112022-48184c69-8e81-42cc-a27c-ac9bbc852aaa.png)
 ![icons8-nativo-de-reagir-48](https://user-images.githubusercontent.com/101835324/165111932-c277d356-3bd2-4f63-9869-46be28cc984b.png)
+![icons8-typescript-48](https://user-images.githubusercontent.com/101835324/166572642-372a5550-ae9e-434a-a109-c17f6f62410c.png)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Alves1&layout=compact&theme=chartreuse-dark&textcolor=white)](https://github.com/anuraghazra/github-readme-stats)
