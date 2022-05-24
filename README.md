@@ -16,7 +16,7 @@ I'm becoming a Web Developer and at this moment I was enhancing my knowledge abo
 
 ![icons8-linkedin---in-logo-used-for-professional-networking,-24](https://user-images.githubusercontent.com/101835324/165109787-02337703-2363-4ac4-b50e-c2e9e66dce62.png) [Linkedin profile](https://www.linkedin.com/in/victor-alves-da-costa-257375220/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Alves1&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Alves1&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
