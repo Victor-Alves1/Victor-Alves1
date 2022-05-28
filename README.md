@@ -1,12 +1,21 @@
 ### Hi there 👋
 My name is Victor, I'm a brazillian guy who loves technology and innovation
-I'm becoming a Web Developer and at this moment I was enhancing my knowledge about React
+I'm becoming a Web Developer and at this moment I was enhancing my knowledge about NodeJs
+
+Technologies:
 
 ![icons8-html-5-48](https://user-images.githubusercontent.com/101835324/165111872-1db50d31-ff08-4c68-8f8d-372172a3e58d.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/101835324/165111999-a12764fb-a618-4c85-9fc1-8a9fd68e4db0.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/101835324/165112022-48184c69-8e81-42cc-a27c-ac9bbc852aaa.png)
 ![icons8-nativo-de-reagir-48](https://user-images.githubusercontent.com/101835324/165111932-c277d356-3bd2-4f63-9869-46be28cc984b.png)
 ![icons8-typescript-48](https://user-images.githubusercontent.com/101835324/166572642-372a5550-ae9e-434a-a109-c17f6f62410c.png)
+![icons8-node-js-48](https://user-images.githubusercontent.com/101835324/170839775-05936236-1f0c-4d92-b838-cea256b8218b.png)
+![icons8-bootstrap-48](https://user-images.githubusercontent.com/101835324/170839780-897a29d6-3251-4221-b6b1-1af1e990dad2.png)
+
+Operational systems:
+
+![icons8-linux-48](https://user-images.githubusercontent.com/101835324/170839783-234fc63d-0af3-455d-93a8-f166edb47c7b.png)
+![icons8-logo-do-windows-48](https://user-images.githubusercontent.com/101835324/170839785-4ebb0825-0e93-4819-a525-e88edbd79782.png)
 
 
 
