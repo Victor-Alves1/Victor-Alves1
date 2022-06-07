@@ -2,7 +2,7 @@
 My name is Victor, I'm a brazillian guy who loves technology and innovation
 I'm becoming a Web Developer and at this moment I was enhancing my knowledge about NodeJs
 
-Technologies:
+My stack:
 
 ![icons8-html-5-48](https://user-images.githubusercontent.com/101835324/165111872-1db50d31-ff08-4c68-8f8d-372172a3e58d.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/101835324/165111999-a12764fb-a618-4c85-9fc1-8a9fd68e4db0.png)
@@ -12,7 +12,7 @@ Technologies:
 ![icons8-node-js-48](https://user-images.githubusercontent.com/101835324/170839775-05936236-1f0c-4d92-b838-cea256b8218b.png)
 ![icons8-bootstrap-48](https://user-images.githubusercontent.com/101835324/170839780-897a29d6-3251-4221-b6b1-1af1e990dad2.png)
 
-My Stack:
+Operational systems:
 
 ![icons8-linux-48](https://user-images.githubusercontent.com/101835324/170839783-234fc63d-0af3-455d-93a8-f166edb47c7b.png)
 ![icons8-logo-do-windows-48](https://user-images.githubusercontent.com/101835324/170839785-4ebb0825-0e93-4819-a525-e88edbd79782.png)
