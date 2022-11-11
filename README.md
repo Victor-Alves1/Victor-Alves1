@@ -1,6 +1,4 @@
 ### Hi there 👋
-My name is Victor, I'm a brazillian guy who loves technology and innovation
-I'm becoming a Web Developer and at this moment I was enhancing my knowledge about NodeJs
 
 My stack:
 
