@@ -10,9 +10,9 @@ My stack:
 ![icons8-node-js-48](https://user-images.githubusercontent.com/101835324/170839775-05936236-1f0c-4d92-b838-cea256b8218b.png)
 ![icons8-bootstrap-48](https://user-images.githubusercontent.com/101835324/170839780-897a29d6-3251-4221-b6b1-1af1e990dad2.png)
 
-Cloud and Databases:
+Databases:
 
-![icons8-azure-48](https://user-images.githubusercontent.com/101835324/201411546-5011026d-40d0-43e7-9f9f-20447e2d9acf.png)
+<!-- ![icons8-azure-48](https://user-images.githubusercontent.com/101835324/201411546-5011026d-40d0-43e7-9f9f-20447e2d9acf.png) -->
 ![icons8-microsoft-sql-server-48](https://user-images.githubusercontent.com/101835324/201411773-9fb0853c-80c2-4fad-a5af-0ef0e2d25618.png)
 ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/101835324/201411776-c8061f0f-5079-405c-b808-616e5e0bde0d.png)
 
@@ -20,7 +20,7 @@ Operational systems:
 
 ![icons8-linux-48](https://user-images.githubusercontent.com/101835324/170839783-234fc63d-0af3-455d-93a8-f166edb47c7b.png)
 ![icons8-logo-do-windows-48](https://user-images.githubusercontent.com/101835324/170839785-4ebb0825-0e93-4819-a525-e88edbd79782.png)
-![icons8-powershell-48](https://user-images.githubusercontent.com/101835324/201411968-3e96fa50-582d-4984-8895-8aae28f37a43.png)
+<!-- ![icons8-powershell-48](https://user-images.githubusercontent.com/101835324/201411968-3e96fa50-582d-4984-8895-8aae28f37a43.png) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Alves1&layout=compact&theme=chartreuse-dark&textcolor=white)](https://github.com/anuraghazra/github-readme-stats)
