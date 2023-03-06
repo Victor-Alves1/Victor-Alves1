@@ -1,27 +1,55 @@
 ### Hi there 👋
 
-My stack:
+Welcome to my GitHub
 
-![icons8-html-5-48](https://user-images.githubusercontent.com/101835324/165111872-1db50d31-ff08-4c68-8f8d-372172a3e58d.png)
-![icons8-css3-48](https://user-images.githubusercontent.com/101835324/165111999-a12764fb-a618-4c85-9fc1-8a9fd68e4db0.png)
-![icons8-javascript-48](https://user-images.githubusercontent.com/101835324/165112022-48184c69-8e81-42cc-a27c-ac9bbc852aaa.png)
-![icons8-nativo-de-reagir-48](https://user-images.githubusercontent.com/101835324/165111932-c277d356-3bd2-4f63-9869-46be28cc984b.png)
-![icons8-typescript-48](https://user-images.githubusercontent.com/101835324/166572642-372a5550-ae9e-434a-a109-c17f6f62410c.png)
-![icons8-node-js-48](https://user-images.githubusercontent.com/101835324/170839775-05936236-1f0c-4d92-b838-cea256b8218b.png)
-![icons8-bootstrap-48](https://user-images.githubusercontent.com/101835324/170839780-897a29d6-3251-4221-b6b1-1af1e990dad2.png)
+🌱 I’m currently learning Web-Development, Cloud Computing and about Databases/Data Warehouse/Data Lake 
+
+Languages:
+
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+Web development Front-End:
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+Web development Back-End:
+
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 Databases:
 
-<!-- ![icons8-azure-48](https://user-images.githubusercontent.com/101835324/201411546-5011026d-40d0-43e7-9f9f-20447e2d9acf.png) -->
-![icons8-microsoft-sql-server-48](https://user-images.githubusercontent.com/101835324/201411773-9fb0853c-80c2-4fad-a5af-0ef0e2d25618.png)
-![icons8-mysql-logo-48](https://user-images.githubusercontent.com/101835324/201411776-c8061f0f-5079-405c-b808-616e5e0bde0d.png)
+![sqlserver](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  
+ Cloud:
+ 
+![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+Office 365:
+
+![teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+Image editing:
+
+![ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+  
 Operational systems:
 
-![icons8-linux-48](https://user-images.githubusercontent.com/101835324/170839783-234fc63d-0af3-455d-93a8-f166edb47c7b.png)
-![icons8-logo-do-windows-48](https://user-images.githubusercontent.com/101835324/170839785-4ebb0825-0e93-4819-a525-e88edbd79782.png)
-<!-- ![icons8-powershell-48](https://user-images.githubusercontent.com/101835324/201411968-3e96fa50-582d-4984-8895-8aae28f37a43.png) -->
-
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Alves1&layout=compact&theme=chartreuse-dark&textcolor=white)](https://github.com/anuraghazra/github-readme-stats)
 
