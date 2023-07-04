@@ -2,7 +2,7 @@
 
 Welcome to my GitHub
 
-🌱 I’m currently learning Web-Development, Cloud Computing and about Databases/Data Warehouse/Data Lake 
+🌱 I’m currently learning Cloud Computing and about Databases/Data Warehouse/Data Lake 
 
 My portfolio: [portfolio-victor-alves1.vercel.app](https://portfolio-victor-alves1.vercel.app/)
 
